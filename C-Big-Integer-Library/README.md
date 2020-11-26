@@ -1,4 +1,4 @@
-# C-Big-Integer-Library
+# C++-Big-Integer-Library
 C++ Big Integer library for programming contests and medium scale computations
 
 What is included:
