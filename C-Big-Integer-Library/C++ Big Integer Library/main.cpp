@@ -1,10 +1,7 @@
 //
 //  main.cpp
 //  C++ Big Integer Library
-//
-//  Created by Mahmud on 10/28/18.
-//  Copyright © 2018 Mahmud. All rights reserved.
-//
+
 
 #include <iostream>
 #include <cstring>
@@ -13,10 +10,6 @@
 
 #include "integer.h"
 #include "extra_integer_factory.h"
-#include "random_factory.h"
-#include "prime_factory.h"
-
-#include "rsa_mini.h"
 
 using namespace std;
 
