@@ -1,10 +1,7 @@
 //
 //  operators.h
 //  C++ Big Integer Library
-//
-//  Created by Mahmud on 10/28/18.
-//  Copyright © 2018 Mahmud. All rights reserved.
-//
+
 
 #ifndef operators_h
 #define operators_h
